@@ -10,6 +10,7 @@ for multiple websites at the same time. Server is configured using
 inventory variables, role can also be used as a dependency of another role
 to configure a webserver for that role using dependency variables.
 
+
 ### Installation
 
 This role requires at least Ansible `v1.7.0`. To install it, run:
